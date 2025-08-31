@@ -1,0 +1,63 @@
+{
+  "Action": [
+    {
+      "id": 1,
+      "title": "Edge of Tomorrow",
+      "thumbnail": "https://placehold.co/320x180?text=Edge+of+Tomorrow",
+      "url": "https://sample-videos.com/video321/mp4/720/big_buck_bunny_720p_1mb.mp4",
+      "description": "A soldier relives the same day over and over, fighting an alien invasion until he learns how to defeat them.",
+      "duration": "1h 53m",
+      "year": 2014,
+      "rating": "PG-13",
+      "genres": ["Sci-Fi", "Action"]
+    },
+    {
+      "id": 2,
+      "title": "Mad Max: Fury Road",
+      "thumbnail": "https://placehold.co/320x180?text=Mad+Max",
+      "url": "https://sample-videos.com/video321/mp4/720/big_buck_bunny_720p_1mb.mp4",
+      "description": "In a post-apocalyptic desert, Max joins forces with Furiosa to escape a tyrant and his army.",
+      "duration": "2h 0m",
+      "year": 2015,
+      "rating": "R",
+      "genres": ["Action", "Adventure"]
+    }
+  ],
+  "Comedy": [
+    {
+      "id": 3,
+      "title": "The Office Reunion",
+      "thumbnail": "https://placehold.co/320x180?text=The+Office",
+      "url": "https://sample-videos.com/video321/mp4/720/big_buck_bunny_720p_1mb.mp4",
+      "description": "The Dunder Mifflin crew comes back together for an unexpected reunion filled with chaos and laughs.",
+      "duration": "2h 10m",
+      "year": 2022,
+      "rating": "PG",
+      "genres": ["Comedy"]
+    },
+    {
+      "id": 4,
+      "title": "Superbad",
+      "thumbnail": "https://placehold.co/320x180?text=Superbad",
+      "url": "https://sample-videos.com/video321/mp4/720/big_buck_bunny_720p_1mb.mp4",
+      "description": "Two high school friends try to buy alcohol for a party, leading to a night of wild misadventures.",
+      "duration": "1h 53m",
+      "year": 2007,
+      "rating": "R",
+      "genres": ["Comedy"]
+    }
+  ],
+  "Drama": [
+    {
+      "id": 5,
+      "title": "The Pursuit of Happyness",
+      "thumbnail": "https://placehold.co/320x180?text=Pursuit+of+Happyness",
+      "url": "https://sample-videos.com/video321/mp4/720/big_buck_bunny_720p_1mb.mp4",
+      "description": "A struggling salesman takes custody of his son as he’s poised to begin a life-changing career.",
+      "duration": "1h 57m",
+      "year": 2006,
+      "rating": "PG-13",
+      "genres": ["Drama", "Biography"]
+    }
+  ]
+}
